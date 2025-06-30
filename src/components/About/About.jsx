@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import about_img from '../../assets/about_profile.svg'
+import about_img from '../../assets/profile.jpg'
 
 const About = () => {
   return (
@@ -15,8 +15,8 @@ const About = () => {
           </div>
           <div className="about-right">
             <div className="about-para">
-                <p>ok ok ok ok i still havent figured out what to say about myself yet damn! but i trust myself enough when i say it'll come.shar!</p>
-                <p> ok ok ok ok i still havent figured out what to say about myself yet damn! but i trust myself enough when i say it'll come.shar!</p>
+                <p>I'm a young web developer with over 2 years of experience in web development. I've been on a couple of projects both personal and client standard</p>
+                <p> Eager to learn and improve. I'm opened to every opportunity that will help me grow</p>
             </div>
             <div className="about-skills">
                 <div className="about-skill"> <p>HTML & CSS</p><hr style={{width:"50%"}} /></div>
