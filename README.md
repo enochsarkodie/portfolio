@@ -1,2 +1,2 @@
 hey there, 
-My name is Enoch Sarkodie. I am web developer still building and upskilling. dont want to say more because everything there is to know about me is already on my site.  
+My name is Enoch Sarkodie. I am web developer still building and upskilling. dont want to say more because everything there is to know about me is already on my site.  this portfolio site is still under construction. Purposely built for the sake of the azubi Africa application. More features are going to be added as we progress. 
